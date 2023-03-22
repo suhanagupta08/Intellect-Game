@@ -39,6 +39,6 @@
 >> Teachers: Check summary report of each world                                                                                                                     
 >> Teachers: Account management for the Students                                                                                                                     
 
-## 3. Architecture
+### 3. Architecture
 
 ![Picture 1](https://user-images.githubusercontent.com/56465845/118632030-a0135900-b802-11eb-9dd9-6b6bf64f8a2d.png)
