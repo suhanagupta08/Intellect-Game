@@ -1,4 +1,4 @@
-# Intellect-Game
+# Intellect-Game 
 Online Educational Game
 
 •	This project consists of the Intellect Game Application for the Students and a Web App for the Teachers. 
